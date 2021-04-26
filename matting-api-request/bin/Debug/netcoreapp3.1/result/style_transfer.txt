@@ -1,1 +1,0 @@
-{"code":0,"data":"http://wdpicup.oss-cn-hangzhou.aliyuncs.com/style_transfer/2021/04/25/d2a4cc28cb6e49c0832f8f3527715cfd.jpg?Expires=1619948676&OSSAccessKeyId=LTAIzt3dzL2GfSyG&Signature=kD4%2BXekw%2B3fQhLRZFtM5ZbL4gdU%3D","msg":null,"time":1619343876089}
