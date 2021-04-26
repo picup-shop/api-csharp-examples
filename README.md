@@ -7,7 +7,7 @@
 #### Api文件：
 - ApiIdPohotRequest.cs 证件照API示例接口方法
 - ApiImageFixRequest.cs 图像修复示例接口方法
-- ApiMattingRequest.cs 抠图示例接口方法(包括人像、物体、通用、头像、美化、动漫化,返回三种输出格式,示例方法根据mattingType参数的类型来区分)
+- ApiMattingRequest.cs 抠图示例接口方法(包括人像、物体、通用、头像、美化、动漫化,输出格式为byte或base64字符串,示例方法根据mattingType参数的类型来区分)
 - ApiStyleTransferRequest.cs 风格迁移示例接口方法
 
 ##### 注：更多API接口的详细信息请参考官网的API文档(示例项目的代码会根据官网的API文档同步更新)
