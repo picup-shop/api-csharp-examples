@@ -1,18 +1,8 @@
 # 皮卡智能，C#版本API示例代码
 
 #### 使用示例
-- 使用命令: git clone https://github.com/picup-shop/api-java-examples.git 克隆下此项目
-- 在ApiMattingExample.java下更改APIKEY，在main方法调用需要执行的API接口方法即可 注:(*示例代码仅供参考，如需使用请结合项目实际情况做出更改*)
-```java
-   public class ApiMattingExample {
-   public static String APIKEY = "账号获取到的APIKEY";
-   
-   public static void main (String args[]) {
-        //调用你需要执行的API接口方法,执行成功后在当前项目的resource/results文件下即可看到结果数据
-        new ApiMattingExample().universalReturnsBinary();
-     }
-  }
-```
+- 使用命令: git clone https://github.com/picup-shop/api-csharp-examples.git 克隆下此项目
+- 在Program.cs下更改APIKEY，在main方法调用相关的示例API接口方法即可 注:(*示例代码仅供参考，如需使用请结合项目实际情况做出更改*)
 
 ##### 注：更多API接口的详细信息请参考官网的API文档(示例项目的代码会根据官网的API文档同步更新)
 [皮卡智能抠图](http://www.picup.shop/apidoc-image-matting.html)
