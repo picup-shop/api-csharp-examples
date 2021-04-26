@@ -1,0 +1,16 @@
+D:\Project-C#\matting-api-request\matting-api-request\bin\Debug\netcoreapp3.1\matting-api-request.exe
+D:\Project-C#\matting-api-request\matting-api-request\bin\Debug\netcoreapp3.1\matting-api-request.deps.json
+D:\Project-C#\matting-api-request\matting-api-request\bin\Debug\netcoreapp3.1\matting-api-request.runtimeconfig.json
+D:\Project-C#\matting-api-request\matting-api-request\bin\Debug\netcoreapp3.1\matting-api-request.runtimeconfig.dev.json
+D:\Project-C#\matting-api-request\matting-api-request\bin\Debug\netcoreapp3.1\matting-api-request.dll
+D:\Project-C#\matting-api-request\matting-api-request\bin\Debug\netcoreapp3.1\matting-api-request.pdb
+D:\Project-C#\matting-api-request\matting-api-request\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Project-C#\matting-api-request\matting-api-request\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Project-C#\matting-api-request\matting-api-request\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Project-C#\matting-api-request\matting-api-request\obj\Debug\netcoreapp3.1\matting-api-request.AssemblyInfoInputs.cache
+D:\Project-C#\matting-api-request\matting-api-request\obj\Debug\netcoreapp3.1\matting-api-request.AssemblyInfo.cs
+D:\Project-C#\matting-api-request\matting-api-request\obj\Debug\netcoreapp3.1\matting-api-request.csproj.CoreCompileInputs.cache
+D:\Project-C#\matting-api-request\matting-api-request\obj\Debug\netcoreapp3.1\matting-api-request.csproj.CopyComplete
+D:\Project-C#\matting-api-request\matting-api-request\obj\Debug\netcoreapp3.1\matting-api-request.dll
+D:\Project-C#\matting-api-request\matting-api-request\obj\Debug\netcoreapp3.1\matting-api-request.pdb
+D:\Project-C#\matting-api-request\matting-api-request\obj\Debug\netcoreapp3.1\matting-api-request.genruntimeconfig.cache
