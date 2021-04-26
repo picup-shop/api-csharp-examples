@@ -6,9 +6,9 @@ namespace matting_api_request
     class Program
     {
         //账号密钥
-        private const string APIKEY = "b3657935cf564118b66db1feb8a122f0";
+        private const string APIKEY = "输入账号的APIKEY";
         //请求地址
-        private const string REQUEST_URL = "http://www.picup.shop/api/v1";
+        private const string REQUEST_URL = "https://picupapi.tukeli.net/api/v1";
 
         //读取路径(此路径为当前项目下的图片文件夹路径 )
         private static readonly string READ_IMAGE_PATH;
