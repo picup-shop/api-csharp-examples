@@ -4,8 +4,14 @@
 - 使用命令: git clone https://github.com/picup-shop/api-csharp-examples.git 克隆下此项目
 - 在Program.cs下更改APIKEY，在main方法调用相关的示例API接口方法即可 注:(*示例代码仅供参考，如需使用请结合项目实际情况做出更改*)
 
+#### Api文件：
+- ApiIdPohotRequest.cs 证件照API示例接口方法
+- ApiImageFixRequest.cs 图像修复示例接口方法
+- ApiMattingRequest.cs 抠图示例接口方法(包括人像、物体、通用、头像、美化、动漫化,返回三种输出格式,示例方法根据mattingType参数的类型来区分)
+- ApiStyleTransferRequest.cs 风格迁移示例接口方法
+
 ##### 注：更多API接口的详细信息请参考官网的API文档(示例项目的代码会根据官网的API文档同步更新)
-[皮卡智能抠图](http://www.picup.shop/apidoc-image-matting.html)
+[皮卡智能抠图官网API](http://www.picup.shop/apidoc-image-matting.html)
 
 ---
 #### 关于我们
