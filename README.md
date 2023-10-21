@@ -11,7 +11,7 @@
 - ApiStyleTransferRequest.cs 风格迁移示例接口方法
 
 ##### 注：更多API接口的详细信息请参考官网的API文档(示例项目的代码会根据官网的API文档同步更新)
-[皮卡智能抠图官网API](http://www.picup.shop/apidoc-image-matting.html)
+[皮卡智能抠图官网API](http://www.tukeli.net/apidoc-image-matting.html)
 
 ---
 #### 关于我们
